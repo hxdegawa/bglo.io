@@ -18,7 +18,7 @@
   "devDependencies": {
     "contentful": "^7.9.1",
     "node-sass": "^4.12.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.1.0"
   }
